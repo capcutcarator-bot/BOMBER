@@ -1,0 +1,15 @@
+{
+  "name": "brutal-bomber",
+  "version": "3.0.0",
+  "description": "💀 Ultimate SMS/Call/WhatsApp Bomber with 750+ APIs",
+  "main": "brutal_bomber.js",
+  "scripts": {
+    "start": "node brutal_bomber.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
